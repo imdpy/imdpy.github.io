@@ -2016,7 +2016,7 @@ button,
       text-indent: 7.25em;
       width: 7.25em; }
       #sidebar .toggle:before {
-        color: #7f888f;
+        color: #0071c7;
         margin-left: -0.0625em;
         margin-top: -0.25em;
         font-size: 1.1rem;
@@ -2154,20 +2154,7 @@ button,
   #footer .copyright a {
     color: inherit; }
 
-/* Menu */
-#menu ul {
-  -moz-user-select: none;
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  color: #3d4449;
-  font-family: "Roboto Slab", serif;
-  font-weight: 400;
-  letter-spacing: 0.075em;
-  list-style: none;
-  margin-bottom: 0;
-  padding: 0;
-  text-transform: uppercase; }
+
   #menu ul a, #menu ul span {
     border-bottom: 0;
     color: inherit;
